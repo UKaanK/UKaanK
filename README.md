@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UKaanK&" alt="ukaank" /></p>
 
 
-![snake gif](https://github.com/UKaanK/UKaanK/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/UKaanK/UKaanK/blob/github-contribution-grid-snake.svg)
