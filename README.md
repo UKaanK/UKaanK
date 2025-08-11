@@ -10,20 +10,15 @@
 </div>
 
 ---
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub İstatistiklerim</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UKaanK&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UKaanK&theme=radical" height="180" />
-</div>
 
----
+<!-- GitHub Stats + Streak yan yana -->
+<img src="https://github-readme-stats.vercel.app/api?username=UKaanK&show_icons=true&theme=radical&count_private=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UKaanK&theme=radical" height="150"/>
 
-<!-- En Çok Kullanılan Diller -->
-<h2 align="center">💻 En Çok Kullandığım Diller</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UKaanK&layout=compact&theme=radical" height="180" />
+<!-- Diller -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UKaanK&layout=compact&theme=radical" height="150"/>
+
 </div>
 
 ---
