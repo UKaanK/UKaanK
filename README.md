@@ -1,6 +1,6 @@
 <!-- Profil Başlığı -->
 <h1 align="center">👋 Merhaba, Ben Umut Kaan Kartaloğlu</h1>
-<h3 align="center">🚀 Fullstack Developer | Mobil, Backend & AI Meraklısı</h3>
+<h3 align="center">🚀 Fullstack Developer | Mobil, Backend & AI Developer</h3>
 
 ---
 
