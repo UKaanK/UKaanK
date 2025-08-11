@@ -33,7 +33,7 @@
 <!-- Sosyal Medya -->
 <h2 align="center">🌐 Sosyal Medya</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/umutkaankartaloglu" target="_blank">
+  <a href="https://www.linkedin.com/in/umut-kaan-kartaloğlu-3b1685223" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://github.com/UKaanK" target="_blank">
